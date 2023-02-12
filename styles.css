@@ -368,7 +368,7 @@ h5 span {
 }
 
 #myworks1 {
-    background: url(./images/port-1.png);
+    background: url(./images/port-01.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -382,14 +382,14 @@ h5 span {
 }
 
 #myworks3 {
-    background: url(./images/port-3.png);
+    background: url(./images/port-02.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #myworks4 {
-    background: url(./images/port-5.png);
+    background: url(./images/port-04.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -403,21 +403,21 @@ h5 span {
 }
 
 #myworks6 {
-    background: url(./images/port-4.png);
+    background: url(./images/port-05.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #myworks7 {
-    background: url(./images/port-2.png);
+    background: url(./images/port-08.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #myworks8 {
-    background: url(./images/port-4.png);
+    background: url(./images/port-06.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -488,7 +488,6 @@ textarea {
 }
 
 .send-btn {
-    /* padding: 5px 20px; */
     width: 120px;
     height: 35px;
     border: none;
@@ -522,12 +521,6 @@ h6 {
 .hover-item h6 {
     color: white;
 }
-
-
-/*
-.anim-cont:hover{
-    background-color: #12181b;
-}*/
 
 @media (max-width:450px) {
     .hero {
